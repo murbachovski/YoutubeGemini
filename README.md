@@ -32,7 +32,7 @@ pip install -r requirements.txt
 </p>
 
 # Ngrok
-(로컬 서버 => 공개 서버)
+(로컬 서버 => 공개 서버로 전환)
 ```
 <Mac M1 설치 기준>
 https://ngrok.com/downloads/mac-os
