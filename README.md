@@ -5,7 +5,8 @@ YoutubeGemini — 유튜브 영상 AI 분석 서비스
 
 # 프로젝트 설명
 ```
-YoutubeGemini는 유튜브 영상 URL과 질문을 입력하면, Google Gemini AI로 영상을 분석해 자연어 답변을 제공하는 웹 서비스
+YoutubeGemini는 유튜브 영상 URL과 질문을 입력하면,
+Google Gemini AI로 영상을 분석해 자연어 답변을 제공하는 웹 서비스
 ```
 
 # 가상환경 설정
