@@ -31,5 +31,16 @@ pip install -r requirements.txt
   <img src="https://github.com/user-attachments/assets/e5604b42-bb12-4306-a3c4-22a32d4fd327" width="700">
 </p>
 
-# 참고 문서
+# Ngrok
+```
+https://ngrok.com/downloads/mac-os
+brew install ngrok
+ngrok config add-authtoken <token>
+ngrok http 80
+```
+
+# Ngrok 참고 문서
+[위키독스](https://cordcat.tistory.com/105)<br>
+
+# Gemini 참고 문서
 [위키독스](https://wikidocs.net/254713)<br>
