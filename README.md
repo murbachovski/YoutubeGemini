@@ -31,8 +31,10 @@ pip install -r requirements.txt
   <img src="https://github.com/user-attachments/assets/e5604b42-bb12-4306-a3c4-22a32d4fd327" width="700">
 </p>
 
-# Ngrok(로컬 서버 => 공개 서버)
+# Ngrok
+(로컬 서버 => 공개 서버)
 ```
+<Mac M1 설치 기준>
 https://ngrok.com/downloads/mac-os
 brew install ngrok
 ngrok config add-authtoken <token>
