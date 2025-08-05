@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 # 웹 구성
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e5604b42-bb12-4306-a3c4-22a32d4fd327" width="1000">
-  <img src="https://github.com/user-attachments/assets/3fc20c67-4e21-4ff4-a9ad-9245c3fff5e1" width="1000">
   <img src="https://github.com/user-attachments/assets/7c329c53-5910-4551-892a-6294c0d7ecf6" width="1000">
+  <img src="https://github.com/user-attachments/assets/3fc20c67-4e21-4ff4-a9ad-9245c3fff5e1" width="1000">
+  <img src="https://github.com/user-attachments/assets/e5604b42-bb12-4306-a3c4-22a32d4fd327" width="1000">
 </p>
