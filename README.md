@@ -42,9 +42,7 @@ ngrok http 80
 ```
 
 # Ngrok(공개 서버 접속)
-```
-https://c83c0967a9dd.ngrok-free.app/
-```
+[Ngrok 공개 서버 접속](https://c83c0967a9dd.ngrok-free.app/)<br>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5ca755c3-d8f8-4088-b3b4-1b735945d351" width="700">
