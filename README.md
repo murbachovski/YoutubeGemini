@@ -1,10 +1,18 @@
+프로젝트 제목
+```
+YoutubeGemini — 유튜브 영상 AI 분석 서비스
+```
+
+프로젝트 설명
+```
+YoutubeGemini는 유튜브 영상 URL과 사용자의 질문을 입력하면, Google Gemini AI 모델을 통해 영상 내용을 분석하고 자연어 답변을 제공하는 웹 기반 인터랙티브 서비스입니다.
+영상 다운로드, 업로드, AI 분석, 결과 출력까지 자동으로 처리하며, 사용자 친화적인 UI와 배경화면 커스터마이징 기능을 포함하고 있습니다.
+```
+
 # YoutubeGemini
 ```
 Youtube Link =>  Questions=> Gemini =>  Answers
 ```
-
-# 참고 문서
-[위키독스](https://wikidocs.net/254713)<br>
 
 # 가상환경 설정
 ```
@@ -28,3 +36,6 @@ pip install -r requirements.txt
   <img src="https://github.com/user-attachments/assets/7c329c53-5910-4551-892a-6294c0d7ecf6" width="700">
   <img src="https://github.com/user-attachments/assets/e5604b42-bb12-4306-a3c4-22a32d4fd327" width="700">
 </p>
+
+# 참고 문서
+[위키독스](https://wikidocs.net/254713)<br>
