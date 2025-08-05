@@ -1,0 +1,4 @@
+protobuf==6.31.1
+pytubefix==9.4.1
+streamlit==1.47.1
+google-generativeai==0.8.5

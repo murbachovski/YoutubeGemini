@@ -1,0 +1,34 @@
+2025-08-05 15:24:23,886 [ERROR] 환경변수 'GENAI_API_KEY'가 설정되지 않음, 앱 종료
+2025-08-05 15:25:13,057 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/25_08_05_pr/background.jpg
+2025-08-05 15:25:19,131 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/25_08_05_pr/background.jpg
+2025-08-05 15:25:19,151 [INFO] 영상 AI 분석 시작
+2025-08-05 15:25:19,151 [INFO] 유튜브 영상 다운로드 시도: https://www.youtube.com/watch?v=-psgagqWoIo
+2025-08-05 15:25:24,423 [INFO] 영상 다운로드 성공: /Users/jini/Downloads/jini/st_coding/gemini_youtube/videos/이찬혁 - 비비드라라러브 + 멸종위기사랑   [열린 음악회Open Concert] | KBS 250803 방송.mp4
+2025-08-05 15:25:24,833 [ERROR] 분석 중 오류 발생: <HttpError 400 when requesting https://generativelanguage.googleapis.com/$discovery/rest?version=v1beta&key=AIzaSyCog1z-WEO9pnM_zDXVqM7aFtIyIGpnNZkAIzaSyCog1z-WEO9pnM_zDXVqM7aFtIyIGpnNZk returned "API key not valid. Please pass a valid API key.". Details: "[{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]">
+2025-08-05 15:25:24,837 [WARNING] 임시 파일 삭제 중 오류: name 'file_path' is not defined
+2025-08-05 15:25:37,307 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/25_08_05_pr/background.jpg
+2025-08-05 15:25:37,325 [INFO] 영상 AI 분석 시작
+2025-08-05 15:25:37,325 [INFO] 유튜브 영상 다운로드 시도: https://www.youtube.com/watch?v=-psgagqWoIo
+2025-08-05 15:25:38,104 [INFO] 영상 다운로드 성공: /Users/jini/Downloads/jini/st_coding/gemini_youtube/videos/이찬혁 - 비비드라라러브 + 멸종위기사랑   [열린 음악회Open Concert] | KBS 250803 방송.mp4
+2025-08-05 15:25:38,481 [ERROR] 분석 중 오류 발생: <HttpError 400 when requesting https://generativelanguage.googleapis.com/$discovery/rest?version=v1beta&key=AIzaSyCog1z-WEO9pnM_zDXVqM7aFtIyIGpnNZkAIzaSyCog1z-WEO9pnM_zDXVqM7aFtIyIGpnNZk returned "API key not valid. Please pass a valid API key.". Details: "[{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]">
+2025-08-05 15:25:38,483 [WARNING] 임시 파일 삭제 중 오류: name 'file_path' is not defined
+2025-08-05 15:26:05,924 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 15:26:07,982 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 15:26:08,001 [INFO] 영상 AI 분석 시작
+2025-08-05 15:26:08,002 [INFO] 유튜브 영상 다운로드 시도: https://www.youtube.com/watch?v=-psgagqWoIo
+2025-08-05 15:26:08,754 [INFO] 영상 다운로드 성공: /Users/jini/Downloads/jini/st_coding/gemini_youtube/videos/이찬혁 - 비비드라라러브 + 멸종위기사랑   [열린 음악회Open Concert] | KBS 250803 방송.mp4
+2025-08-05 15:26:09,218 [ERROR] 분석 중 오류 발생: <HttpError 400 when requesting https://generativelanguage.googleapis.com/$discovery/rest?version=v1beta&key=AIzaSyCog1z-WEO9pnM_zDXVqM7aFtIyIGpnNZkAIzaSyCog1z-WEO9pnM_zDXVqM7aFtIyIGpnNZk returned "API key not valid. Please pass a valid API key.". Details: "[{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]">
+2025-08-05 15:26:09,223 [WARNING] 임시 파일 삭제 중 오류: name 'file_path' is not defined
+2025-08-05 15:26:41,265 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 15:26:42,699 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 15:26:42,716 [INFO] 영상 AI 분석 시작
+2025-08-05 15:26:42,716 [INFO] 유튜브 영상 다운로드 시도: https://www.youtube.com/watch?v=-psgagqWoIo
+2025-08-05 15:26:43,980 [INFO] 영상 다운로드 성공: /Users/jini/Downloads/jini/st_coding/gemini_youtube/videos/이찬혁 - 비비드라라러브 + 멸종위기사랑   [열린 음악회Open Concert] | KBS 250803 방송.mp4
+2025-08-05 15:26:48,755 [INFO] 파일 활성화 대기 시작: files/sofz1u36iptq
+2025-08-05 15:27:00,089 [INFO] 파일 활성화 완료
+2025-08-05 15:27:00,091 [INFO] AI 모델 요청 시도 1/5
+2025-08-05 15:27:12,084 [INFO] AI 답변 수신 완료
+2025-08-05 15:27:12,146 [INFO] 로컬 파일 삭제 완료: /Users/jini/Downloads/jini/st_coding/gemini_youtube/videos/이찬혁 - 비비드라라러브 + 멸종위기사랑   [열린 음악회Open Concert] | KBS 250803 방송.mp4
+2025-08-05 15:27:12,773 [INFO] 업로드 파일 삭제 완료: files/sofz1u36iptq
+2025-08-05 15:27:12,773 [INFO] 임시 파일 삭제 완료
+2025-08-05 15:32:18,238 [ERROR] 환경변수 'GENAI_API_KEY'가 설정되지 않음, 앱 종료
