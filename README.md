@@ -1,5 +1,7 @@
 # YoutubeGemini
+```
 Youtube Link =>  Questions=> Gemini =>  Answers
+```
 
 # 참고 문서
 [위키독스](https://wikidocs.net/254713)<br>
