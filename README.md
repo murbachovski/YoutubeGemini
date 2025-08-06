@@ -14,6 +14,11 @@ Google Gemini AI로 영상을 분석해 자연어 답변을 제공하는 웹 서
 conda create -n gem_tube python=3.9
 ```
 
+# API_KEY 설정
+```
+export GENAI_API_KEY="AIzaSyDxxxxxxxxxxxxxxxxxxxx"
+```
+
 # 라이브러리 설치
 ```
 pip install -r requirements.txt
@@ -53,5 +58,9 @@ ngrok http 80
 # Ngrok 참고 문서
 [위키독스](https://cordcat.tistory.com/105)<br>
 
+# Make requirements.txt
+```
+pip install pipreqs
+```
 # Gemini 참고 문서
 [위키독스](https://wikidocs.net/254713)<br>
