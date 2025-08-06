@@ -64,9 +64,7 @@ pip install pipreqs
 ```
 
 # pipreqs 참고 문서
-```
-https://pypi.org/project/pipreqs/
-```
+[PyPI pipreqs](https://pypi.org/project/pipreqs/)<br>
 
 # Gemini 참고 문서
 [위키독스](https://wikidocs.net/254713)<br>
